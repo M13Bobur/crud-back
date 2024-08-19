@@ -1,0 +1,1 @@
+{"dars":[{"name":"1-soat","time1":"09:00","time2":"09:45"},{"name":"2-soat","time":"10:00","time2":"10:45"},{"name":"3-soat","time1":"11:00","time2":"11:45"},{"name":"4-soat","time1":"12:00","time2":"12:45"},{"name":"5-soat","time1":"13:00","time2":"13:45"},{"name":"6-soat","time1":"13:00","time2":"13:45"}]}
