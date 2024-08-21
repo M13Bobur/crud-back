@@ -35,6 +35,10 @@ app.post('/duration', async (req, res) => {
     return res.json({message: "data inserted"})
 })
 
+app.post('/extreme', async (req, res) => {
+    return res.json({ message: "success" })
+})
+
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`)
 })
